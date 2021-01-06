@@ -34,7 +34,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on a Social Media Website;
+- 👨🏽‍💻 I’m currently working on Node.js projects;
 - 🌱 I’m currently learning Financial Markets, Fintech and Data Structures and Algorithms
 - 👯 I’m looking to collaborate on MERN stack projects;
 - 🤔 I’m looking for help with DSA and competitive programming;
