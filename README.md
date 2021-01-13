@@ -45,7 +45,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 
 
 <!--![Samikmalhotra's github stats](https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=tokyonight)-->
-<img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+<img width="500" height="auto" align="right" alt="Samikmalhotra's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
 **Languages and Tools:**  
 
@@ -70,6 +70,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 
 
   
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=7&column=7&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+  <img width="500" height="auto" align="right" alt="Samikmalhotra's github stats" 
+         src="https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=7&column=7&theme=darkhub&margin-w=15e" />
+ <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=7&column=7&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)-->
   
