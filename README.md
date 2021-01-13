@@ -64,5 +64,5 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 
   ![Samikmalhotra's github stats](https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=tokyonight)
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=7&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
