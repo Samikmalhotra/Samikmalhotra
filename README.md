@@ -46,7 +46,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 
 <!--![Samikmalhotra's github stats](https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=tokyonight)-->
 <img width="500" height="auto" align="right" alt="Samikmalhotra's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" />
+         src="https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 **Languages and Tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -66,7 +66,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 <br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<br>
 
 
   
