@@ -69,7 +69,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 <br>
 <br>
 <br>
-<br>
+
 
   
   <img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
