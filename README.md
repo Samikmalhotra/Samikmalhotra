@@ -70,7 +70,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 
 
   
-  <img width="500" height="auto" align="right" alt="Samikmalhotra's github stats" 
+  <img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=7&column=7&theme=darkhub&margin-w=15e" />
- <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=7&column=7&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)-->
+ <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=7&column=7&theme=darkhub&margin-w=15)]-->
   
