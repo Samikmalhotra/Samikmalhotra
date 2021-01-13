@@ -70,6 +70,6 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 
 
   
-  
+  <p align="center">
   [![trophy](https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=7&column=7&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
+  </p
