@@ -50,7 +50,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 <!--![Samikmalhotra's github stats](https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=tokyonight)-->
 <br>
 <br>
-<br>
+
 <img width="500" height="auto" align="right" alt="Samikmalhotra's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 **Languages and Tools:**  
