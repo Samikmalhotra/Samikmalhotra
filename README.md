@@ -53,10 +53,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 
 <img width="500" height="300" align="right" alt="Samikmalhotra's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-<p align="center">
-  <img width="500" height="300" align="right" alt="Samikmalhotra's github stats" 
-          src = "https://github-readme-streak-stats.herokuapp.com/?user=Samikmalhotra&theme=radical"/>
-</p>
+
 
 **Languages and Tools:**  
 
@@ -78,6 +75,11 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+
+<p align="center">
+  <img width="500" height="300" alt="Samikmalhotra's github stats" 
+          src = "https://github-readme-streak-stats.herokuapp.com/?user=Samikmalhotra&theme=radical"/>
+</p>
   
   <img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=1&column=7&theme=darkhub&margin-w=15e" />
