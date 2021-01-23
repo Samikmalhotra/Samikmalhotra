@@ -55,7 +55,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
          src="https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 
 <img width="500" height="300" align="right" alt="Samikmalhotra's github stats" 
-          src = "https://github-readme-streak-stats.herokuapp.com/?user=Samikmalhotra"/>
+          src = "https://github-readme-streak-stats.herokuapp.com/?user=Samikmalhotra&theme=radical"/>
 
 
 **Languages and Tools:**  
@@ -78,8 +78,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<br>
-<br>
+
 
 
 
