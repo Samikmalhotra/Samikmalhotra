@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering and Technology. I am a MERN STACK DEVELOPER from India, currently, I'm a member of [@ACM-Thapar](https://github.com/ACM-Thapar) and [@creative-computing-society](https://github.com/creative-computing-society) . Beside's programming, I enjoy skateboarding, football, travelling and reading novels. 
   <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />-->
-  <img align="right" height="250px" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
+  <img align="right" height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
   
 **Talking about Personal Stuffs:**
 
