@@ -78,7 +78,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 
 <p align="center">
   <img width="500" height="300" alt="Samikmalhotra's github stats" 
-          src = "https://github-readme-streak-stats.herokuapp.com/?user=Samikmalhotra&theme=radical"/>
+          src = "https://github-readme-streak-stats.herokuapp.com/?user=Samikmalhotra&theme=black-ice"/>
 </p>
   
   <img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
