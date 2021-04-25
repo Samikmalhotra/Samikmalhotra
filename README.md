@@ -83,10 +83,10 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="cplusplus" width="40" height="40"/></code>
 
 
-<p align="center">
+<!--<p align="center">
   <img width="500" height="300" alt="Samikmalhotra's github stats" 
           src = "https://github-readme-streak-stats.herokuapp.com/?user=Samikmalhotra&theme=black-ice"/>
-</p>
+</p>-->
   
   <img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=1&column=7&theme=darkhub&margin-w=15e" />
