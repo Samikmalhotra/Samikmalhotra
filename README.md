@@ -82,6 +82,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="cplusplus" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" alt="cplusplus" width="40" height="40"/></code>
 
 <!--<p align="center">
   <img width="500" height="300" alt="Samikmalhotra's github stats" 
