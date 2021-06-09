@@ -45,7 +45,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 - 🤔 I’m looking for help with DSA and competitive programming;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun Fact: There is something exciting coming in a month , stay tuned
-- 📫 How to reach me: smalhotra2_be20@thapar.edu  https://zoom.us/j/93608088405?pwd=U1VCanlEU0JzOEI1d3o3a0ROb2N3UT09
+- 📫 How to reach me: smalhotra2_be20@thapar.edu  https://samikmalhotra.netlify.app/
 
 
 
