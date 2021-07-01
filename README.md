@@ -63,27 +63,29 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="cplusplus" width="40" height="40"/></code>
-<br/>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></code>
+<br/>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="cplusplus" width="40" height="40"/></code>
-<br/>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></code>
+<br/>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>
-<br/>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="cplusplus" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="cplusplus" width="40" height="40"/></code>
 <br/>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" alt="cplusplus" width="40" height="40"/></code>
-
+<br/>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="cplusplus" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="cplusplus" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="cplusplus" width="40" height="40"/></code>
 <!--<p align="center">
   <img width="500" height="300" alt="Samikmalhotra's github stats" 
           src = "https://github-readme-streak-stats.herokuapp.com/?user=Samikmalhotra&theme=black-ice"/>
