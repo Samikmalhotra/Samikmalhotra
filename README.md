@@ -85,7 +85,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 <br/>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="cplusplus" width="40" height="40"/></a>
 <!--<p align="center">
   <img width="500" height="300" alt="Samikmalhotra's github stats" 
           src = "https://github-readme-streak-stats.herokuapp.com/?user=Samikmalhotra&theme=black-ice"/>
